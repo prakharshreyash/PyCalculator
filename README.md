@@ -1,6 +1,6 @@
 # PyCalculator
 
-A simple calculator app made usig Python which can do the following operatons - Addition, Subtraction, Multiplication, Division and Decimal operations.
+A simple calculator app made using Python which can do the following operatons - Addition, Subtraction, Multiplication, Division and Decimal operations.
 
 # Installation Guide:
 
